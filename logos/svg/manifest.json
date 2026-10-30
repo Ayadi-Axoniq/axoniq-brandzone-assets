@@ -1,0 +1,978 @@
+[
+ {
+  "file": "axoniq-academy-horizontal-black.svg",
+  "product": "Academy",
+  "direction": "horizontal",
+  "color": "black",
+  "w": 1185,
+  "h": 314
+ },
+ {
+  "file": "axoniq-academy-horizontal-original.svg",
+  "product": "Academy",
+  "direction": "horizontal",
+  "color": "original",
+  "w": 1185,
+  "h": 314
+ },
+ {
+  "file": "axoniq-academy-horizontal-original-alt.svg",
+  "product": "Academy",
+  "direction": "horizontal",
+  "color": "original-alt",
+  "w": 1185,
+  "h": 314
+ },
+ {
+  "file": "axoniq-academy-horizontal-white.svg",
+  "product": "Academy",
+  "direction": "horizontal",
+  "color": "white",
+  "w": 1185,
+  "h": 314
+ },
+ {
+  "file": "axoniq-academy-icon-black.svg",
+  "product": "Academy",
+  "direction": "icon",
+  "color": "black",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-academy-icon-original.svg",
+  "product": "Academy",
+  "direction": "icon",
+  "color": "original",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-academy-icon-white.svg",
+  "product": "Academy",
+  "direction": "icon",
+  "color": "white",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-academy-vertical-center-black.svg",
+  "product": "Academy",
+  "direction": "vertical-center",
+  "color": "black",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-center-original.svg",
+  "product": "Academy",
+  "direction": "vertical-center",
+  "color": "original",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-center-original-alt.svg",
+  "product": "Academy",
+  "direction": "vertical-center",
+  "color": "original-alt",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-center-white.svg",
+  "product": "Academy",
+  "direction": "vertical-center",
+  "color": "white",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-left-black.svg",
+  "product": "Academy",
+  "direction": "vertical-left",
+  "color": "black",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-left-original.svg",
+  "product": "Academy",
+  "direction": "vertical-left",
+  "color": "original",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-left-original-alt.svg",
+  "product": "Academy",
+  "direction": "vertical-left",
+  "color": "original-alt",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-left-white.svg",
+  "product": "Academy",
+  "direction": "vertical-left",
+  "color": "white",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-right-black.svg",
+  "product": "Academy",
+  "direction": "vertical-right",
+  "color": "black",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-right-original.svg",
+  "product": "Academy",
+  "direction": "vertical-right",
+  "color": "original",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-right-original-alt.svg",
+  "product": "Academy",
+  "direction": "vertical-right",
+  "color": "original-alt",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-academy-vertical-right-white.svg",
+  "product": "Academy",
+  "direction": "vertical-right",
+  "color": "white",
+  "w": 592,
+  "h": 637
+ },
+ {
+  "file": "axoniq-company-horizontal-black.svg",
+  "product": "Company",
+  "direction": "horizontal",
+  "color": "black",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-company-horizontal-white.svg",
+  "product": "Company",
+  "direction": "horizontal",
+  "color": "white",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-company-vertical-center-black.svg",
+  "product": "Company",
+  "direction": "vertical-center",
+  "color": "black",
+  "w": 592,
+  "h": 506
+ },
+ {
+  "file": "axoniq-company-vertical-center-white.svg",
+  "product": "Company",
+  "direction": "vertical-center",
+  "color": "white",
+  "w": 592,
+  "h": 506
+ },
+ {
+  "file": "axoniq-company-vertical-left-black.svg",
+  "product": "Company",
+  "direction": "vertical-left",
+  "color": "black",
+  "w": 592,
+  "h": 506
+ },
+ {
+  "file": "axoniq-company-vertical-left-white.svg",
+  "product": "Company",
+  "direction": "vertical-left",
+  "color": "white",
+  "w": 592,
+  "h": 506
+ },
+ {
+  "file": "axoniq-company-vertical-right-black.svg",
+  "product": "Company",
+  "direction": "vertical-right",
+  "color": "black",
+  "w": 592,
+  "h": 506
+ },
+ {
+  "file": "axoniq-company-vertical-right-white.svg",
+  "product": "Company",
+  "direction": "vertical-right",
+  "color": "white",
+  "w": 592,
+  "h": 506
+ },
+ {
+  "file": "axoniq-discuss-horizontal-black.svg",
+  "product": "Discuss",
+  "direction": "horizontal",
+  "color": "black",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-discuss-horizontal-original.svg",
+  "product": "Discuss",
+  "direction": "horizontal",
+  "color": "original",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-discuss-horizontal-original-alt.svg",
+  "product": "Discuss",
+  "direction": "horizontal",
+  "color": "original-alt",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-discuss-horizontal-white.svg",
+  "product": "Discuss",
+  "direction": "horizontal",
+  "color": "white",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-discuss-icon-black.svg",
+  "product": "Discuss",
+  "direction": "icon",
+  "color": "black",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-discuss-icon-original.svg",
+  "product": "Discuss",
+  "direction": "icon",
+  "color": "original",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-discuss-icon-white.svg",
+  "product": "Discuss",
+  "direction": "icon",
+  "color": "white",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-discuss-vertical-center-black.svg",
+  "product": "Discuss",
+  "direction": "vertical-center",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-center-original.svg",
+  "product": "Discuss",
+  "direction": "vertical-center",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-center-original-alt.svg",
+  "product": "Discuss",
+  "direction": "vertical-center",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-center-white.svg",
+  "product": "Discuss",
+  "direction": "vertical-center",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-left-black.svg",
+  "product": "Discuss",
+  "direction": "vertical-left",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-left-original.svg",
+  "product": "Discuss",
+  "direction": "vertical-left",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-left-original-alt.svg",
+  "product": "Discuss",
+  "direction": "vertical-left",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-left-white.svg",
+  "product": "Discuss",
+  "direction": "vertical-left",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-right-black.svg",
+  "product": "Discuss",
+  "direction": "vertical-right",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-right-original.svg",
+  "product": "Discuss",
+  "direction": "vertical-right",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-right-original-alt.svg",
+  "product": "Discuss",
+  "direction": "vertical-right",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-discuss-vertical-right-white.svg",
+  "product": "Discuss",
+  "direction": "vertical-right",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-horizontal-black.svg",
+  "product": "Framework",
+  "direction": "horizontal",
+  "color": "black",
+  "w": 1141,
+  "h": 300
+ },
+ {
+  "file": "axoniq-framework-horizontal-original.svg",
+  "product": "Framework",
+  "direction": "horizontal",
+  "color": "original",
+  "w": 1141,
+  "h": 300
+ },
+ {
+  "file": "axoniq-framework-horizontal-original-alt.svg",
+  "product": "Framework",
+  "direction": "horizontal",
+  "color": "original-alt",
+  "w": 1141,
+  "h": 300
+ },
+ {
+  "file": "axoniq-framework-horizontal-white.svg",
+  "product": "Framework",
+  "direction": "horizontal",
+  "color": "white",
+  "w": 1141,
+  "h": 300
+ },
+ {
+  "file": "axoniq-framework-icon-black.svg",
+  "product": "Framework",
+  "direction": "icon",
+  "color": "black",
+  "w": 307,
+  "h": 300
+ },
+ {
+  "file": "axoniq-framework-icon-original.svg",
+  "product": "Framework",
+  "direction": "icon",
+  "color": "original",
+  "w": 307,
+  "h": 300
+ },
+ {
+  "file": "axoniq-framework-icon-white.svg",
+  "product": "Framework",
+  "direction": "icon",
+  "color": "white",
+  "w": 307,
+  "h": 300
+ },
+ {
+  "file": "axoniq-framework-vertical-center-black.svg",
+  "product": "Framework",
+  "direction": "vertical-center",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-center-original.svg",
+  "product": "Framework",
+  "direction": "vertical-center",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-center-original-alt.svg",
+  "product": "Framework",
+  "direction": "vertical-center",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-center-white.svg",
+  "product": "Framework",
+  "direction": "vertical-center",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-left-black.svg",
+  "product": "Framework",
+  "direction": "vertical-left",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-left-original.svg",
+  "product": "Framework",
+  "direction": "vertical-left",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-left-original-alt.svg",
+  "product": "Framework",
+  "direction": "vertical-left",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-left-white.svg",
+  "product": "Framework",
+  "direction": "vertical-left",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-right-black.svg",
+  "product": "Framework",
+  "direction": "vertical-right",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-right-original.svg",
+  "product": "Framework",
+  "direction": "vertical-right",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-right-original-alt.svg",
+  "product": "Framework",
+  "direction": "vertical-right",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-framework-vertical-right-white.svg",
+  "product": "Framework",
+  "direction": "vertical-right",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-insights-horizontal-black.svg",
+  "product": "Insights",
+  "direction": "horizontal",
+  "color": "black",
+  "w": 1185,
+  "h": 316
+ },
+ {
+  "file": "axoniq-insights-horizontal-original.svg",
+  "product": "Insights",
+  "direction": "horizontal",
+  "color": "original",
+  "w": 1185,
+  "h": 316
+ },
+ {
+  "file": "axoniq-insights-horizontal-original-alt.svg",
+  "product": "Insights",
+  "direction": "horizontal",
+  "color": "original-alt",
+  "w": 1185,
+  "h": 316
+ },
+ {
+  "file": "axoniq-insights-horizontal-white.svg",
+  "product": "Insights",
+  "direction": "horizontal",
+  "color": "white",
+  "w": 1185,
+  "h": 316
+ },
+ {
+  "file": "axoniq-insights-icon-black.svg",
+  "product": "Insights",
+  "direction": "icon",
+  "color": "black",
+  "w": 299,
+  "h": 299
+ },
+ {
+  "file": "axoniq-insights-icon-original.svg",
+  "product": "Insights",
+  "direction": "icon",
+  "color": "original",
+  "w": 299,
+  "h": 299
+ },
+ {
+  "file": "axoniq-insights-icon-white.svg",
+  "product": "Insights",
+  "direction": "icon",
+  "color": "white",
+  "w": 299,
+  "h": 299
+ },
+ {
+  "file": "axoniq-insights-vertical-center-black.svg",
+  "product": "Insights",
+  "direction": "vertical-center",
+  "color": "black",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-center-original.svg",
+  "product": "Insights",
+  "direction": "vertical-center",
+  "color": "original",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-center-original-alt.svg",
+  "product": "Insights",
+  "direction": "vertical-center",
+  "color": "original-alt",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-center-white.svg",
+  "product": "Insights",
+  "direction": "vertical-center",
+  "color": "white",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-left-black.svg",
+  "product": "Insights",
+  "direction": "vertical-left",
+  "color": "black",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-left-original.svg",
+  "product": "Insights",
+  "direction": "vertical-left",
+  "color": "original",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-left-original-alt.svg",
+  "product": "Insights",
+  "direction": "vertical-left",
+  "color": "original-alt",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-left-white.svg",
+  "product": "Insights",
+  "direction": "vertical-left",
+  "color": "white",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-right-black.svg",
+  "product": "Insights",
+  "direction": "vertical-right",
+  "color": "black",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-right-original.svg",
+  "product": "Insights",
+  "direction": "vertical-right",
+  "color": "original",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-right-original-alt.svg",
+  "product": "Insights",
+  "direction": "vertical-right",
+  "color": "original-alt",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-insights-vertical-right-white.svg",
+  "product": "Insights",
+  "direction": "vertical-right",
+  "color": "white",
+  "w": 592,
+  "h": 638
+ },
+ {
+  "file": "axoniq-platform-horizontal-black.svg",
+  "product": "Platform",
+  "direction": "horizontal",
+  "color": "black",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-platform-horizontal-original.svg",
+  "product": "Platform",
+  "direction": "horizontal",
+  "color": "original",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-platform-horizontal-original-alt.svg",
+  "product": "Platform",
+  "direction": "horizontal",
+  "color": "original-alt",
+  "w": 1296,
+  "h": 475
+ },
+ {
+  "file": "axoniq-platform-horizontal-white.svg",
+  "product": "Platform",
+  "direction": "horizontal",
+  "color": "white",
+  "w": 1185,
+  "h": 300
+ },
+ {
+  "file": "axoniq-platform-icon-black.svg",
+  "product": "Platform",
+  "direction": "icon",
+  "color": "black",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-platform-icon-original.svg",
+  "product": "Platform",
+  "direction": "icon",
+  "color": "original",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-platform-icon-white.svg",
+  "product": "Platform",
+  "direction": "icon",
+  "color": "white",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-platform-vertical-center-black.svg",
+  "product": "Platform",
+  "direction": "vertical-center",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-center-original.svg",
+  "product": "Platform",
+  "direction": "vertical-center",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-center-original-alt.svg",
+  "product": "Platform",
+  "direction": "vertical-center",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-center-white.svg",
+  "product": "Platform",
+  "direction": "vertical-center",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-left-black.svg",
+  "product": "Platform",
+  "direction": "vertical-left",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-left-original.svg",
+  "product": "Platform",
+  "direction": "vertical-left",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-left-original-alt.svg",
+  "product": "Platform",
+  "direction": "vertical-left",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-left-white.svg",
+  "product": "Platform",
+  "direction": "vertical-left",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-right-black.svg",
+  "product": "Platform",
+  "direction": "vertical-right",
+  "color": "black",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-right-original.svg",
+  "product": "Platform",
+  "direction": "vertical-right",
+  "color": "original",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-right-original-alt.svg",
+  "product": "Platform",
+  "direction": "vertical-right",
+  "color": "original-alt",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-platform-vertical-right-white.svg",
+  "product": "Platform",
+  "direction": "vertical-right",
+  "color": "white",
+  "w": 592,
+  "h": 623
+ },
+ {
+  "file": "axoniq-server-horizontal-black.svg",
+  "product": "Server",
+  "direction": "horizontal",
+  "color": "black",
+  "w": 956,
+  "h": 300
+ },
+ {
+  "file": "axoniq-server-horizontal-original.svg",
+  "product": "Server",
+  "direction": "horizontal",
+  "color": "original",
+  "w": 956,
+  "h": 300
+ },
+ {
+  "file": "axoniq-server-horizontal-original-alt.svg",
+  "product": "Server",
+  "direction": "horizontal",
+  "color": "original-alt",
+  "w": 956,
+  "h": 300
+ },
+ {
+  "file": "axoniq-server-horizontal-white.svg",
+  "product": "Server",
+  "direction": "horizontal",
+  "color": "white",
+  "w": 956,
+  "h": 300
+ },
+ {
+  "file": "axoniq-server-icon-black.svg",
+  "product": "Server",
+  "direction": "icon",
+  "color": "black",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-server-icon-original.svg",
+  "product": "Server",
+  "direction": "icon",
+  "color": "original",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-server-icon-white.svg",
+  "product": "Server",
+  "direction": "icon",
+  "color": "white",
+  "w": 300,
+  "h": 300
+ },
+ {
+  "file": "axoniq-server-vertical-center-black.svg",
+  "product": "Server",
+  "direction": "vertical-center",
+  "color": "black",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-center-original.svg",
+  "product": "Server",
+  "direction": "vertical-center",
+  "color": "original",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-center-original-alt.svg",
+  "product": "Server",
+  "direction": "vertical-center",
+  "color": "original-alt",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-center-white.svg",
+  "product": "Server",
+  "direction": "vertical-center",
+  "color": "white",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-left-black.svg",
+  "product": "Server",
+  "direction": "vertical-left",
+  "color": "black",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-left-original.svg",
+  "product": "Server",
+  "direction": "vertical-left",
+  "color": "original",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-left-original-alt.svg",
+  "product": "Server",
+  "direction": "vertical-left",
+  "color": "original-alt",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-left-white.svg",
+  "product": "Server",
+  "direction": "vertical-left",
+  "color": "white",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-right-black.svg",
+  "product": "Server",
+  "direction": "vertical-right",
+  "color": "black",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-right-original.svg",
+  "product": "Server",
+  "direction": "vertical-right",
+  "color": "original",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-right-original-alt.svg",
+  "product": "Server",
+  "direction": "vertical-right",
+  "color": "original-alt",
+  "w": 592,
+  "h": 625
+ },
+ {
+  "file": "axoniq-server-vertical-right-white.svg",
+  "product": "Server",
+  "direction": "vertical-right",
+  "color": "white",
+  "w": 592,
+  "h": 625
+ }
+]
